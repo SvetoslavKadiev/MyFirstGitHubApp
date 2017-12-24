@@ -11,7 +11,6 @@ namespace MyFirstGitHubApp
     {
         static void Main(string[] args)
         {
-           
             Console.WriteLine("Hello GitHub World!");
         }
     }
