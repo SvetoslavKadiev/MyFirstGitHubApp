@@ -10,6 +10,7 @@ namespace MyFirstGitHubApp
     {
         static void Main(string[] args)
         {
+            // This is master branch
             Console.WriteLine("Hello GitHub World!");
         }
     }
