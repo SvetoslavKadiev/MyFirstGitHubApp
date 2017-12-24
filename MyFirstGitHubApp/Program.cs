@@ -18,6 +18,9 @@ namespace MyFirstGitHubApp
 
             // Read line
             Console.ReadLine();
+             
+            int i = 0;
+            i++; 
         }
     }
 }
