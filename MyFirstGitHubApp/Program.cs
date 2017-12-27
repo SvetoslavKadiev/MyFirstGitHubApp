@@ -15,12 +15,16 @@ namespace MyFirstGitHubApp
             Console.WriteLine("Hello GitHub World!");
             Console.WriteLine("Christmas branch!");
             Console.WriteLine("Reunion!");
+             
+            int i = 0;
+            i++;
+
+            Person pers = new Person() { Name = "Svetoslav Kadiev", Age = 36 };
+       
+            Console.WriteLine(pers.Name);
 
             // Read line
             Console.ReadLine();
-             
-            int i = 0;
-            i++; 
         }
     }
 }
