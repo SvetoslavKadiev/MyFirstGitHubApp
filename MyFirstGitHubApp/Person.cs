@@ -12,7 +12,10 @@ namespace MyFirstGitHubApp
         // Person Name
         public string Name { get; set; }
 
-        //Person age
+        // Person age
         public int Age { get; set; }
+        
+        // Person ID
+        public string ID { get; set; }
     }
 }
