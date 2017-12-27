@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyFirstGitHubApp
 {
+    // Person class
     class Person
     {
         // Person Name
