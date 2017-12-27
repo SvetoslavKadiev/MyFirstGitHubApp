@@ -19,7 +19,7 @@ namespace MyFirstGitHubApp
             int i = 0;
             i++;
 
-            Person pers = new Person() { Name = "Svetoslav Kadiev", Age = 36 };
+            Person pers = new Person() { Name = "Svetoslav Kadiev", Age = 36, ID="8106082200" };
        
             Console.WriteLine(pers.Name);
 
