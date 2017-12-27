@@ -8,7 +8,10 @@ namespace MyFirstGitHubApp
 {
     class Person
     {
+        // Person Name
         public string Name { get; set; }
+
+        //Person age
         public int Age { get; set; }
     }
 }
